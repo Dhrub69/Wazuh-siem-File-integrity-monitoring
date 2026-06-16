@@ -1,0 +1,4 @@
+Wazuh Manager v4.14.5
+- Active services running
+- Agent communication enabled
+- Dashboard working
